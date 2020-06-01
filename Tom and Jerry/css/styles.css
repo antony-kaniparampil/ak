@@ -1,0 +1,120 @@
+body {
+  background-color: #00005c;
+}
+
+hr {
+  text-align: center;
+  border-style: dotted none none;
+  border-color: #00909e;
+  border-width: 20px;
+  width: 10%;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  text-shadow: red;
+  color: #00909e;
+  font-size: 60px;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Bangers', cursive;
+  color: #00909e;
+  font-size: 50px;
+}
+
+p {
+  position: relative;
+  left: 30%;
+  text-align: center;
+  width: 50%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  color: #2fc4b2;
+}
+
+a {
+  font-size: 40px;
+  color: #0e9aa7;
+}
+
+.table1 {
+  font-family: 'Bangers', cursive;
+  color: #2fc4b2;
+  font-size: 50px;
+  width: 40%;
+}
+
+td {
+  font-family: 'Architects Daughter', cursive;
+  color: #2fc4b2;
+  font-size: 40px;
+}
+
+.order {
+  position: relative;
+  left: 30%;
+  font-style: 'Architects Daughter', cursive;
+  font-size: 40px;
+  color: #2fc4b2;
+  text-align: center;
+}
+
+.hr2 {
+  position: relative;
+  left: 0;
+  border-style: dotted none none;
+  border-color: #00909e;
+  border-width: 20px;
+  width: 20%;
+}
+
+.hr3 {
+  position: relative;
+  left: 0;
+  border-style: dotted none none;
+  border-color: #00909e;
+  border-width: 20px;
+  width: 20%;
+}
+
+.img1 {
+  margin-top: 50px;
+  background-color: red;
+  width: 800px;
+  height: 534px;
+}
+
+.img2 {
+  margin-top: 50px;
+  background-color: red;
+  width: 800px;
+  height: 534px;
+}
+marquee {
+  white-space: normal;
+}
+.h11 {
+  padding-top: 20px;
+  text-align: center;
+  font-style: 'Alfa Slab One', cursive;
+  text-shadow: red;
+  color: #c70039;
+  font-size: 80px;
+}
+.h12{
+  padding-top: 20px;
+  text-align: center;
+  font-style: 'Alfa Slab One', cursive;
+  text-shadow: red;
+  color: #c70039;
+  font-size: 80px;
+}
+
+.h13 {
+  font-style: italic;
+  color: #c70039;
+  text-decoration: underline;
+}
